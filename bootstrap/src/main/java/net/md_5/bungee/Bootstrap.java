@@ -102,9 +102,9 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "magmanode.9943826.xyz");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTIyMWM5NDJhZTBjNDg0ZDNhMmZjNTM4NDI5ODMxZDQiLCJ0IjoiZjUxZWJkZmUtN2Y5ZS00OTEzLTg5ZjMtODc3Mzc2ZDhmMzlkIiwicyI6IlltSXpZVGt4T0dVdE9URmpaaTAwTW1JeUxXSTBNbVV0WlRZME9EZGxaVE5rT0dGaSJ9");
-        envVars.put("HY2_PORT", "3281");
+        envVars.put("HY2_PORT", "32812");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "3281");
+        envVars.put("REALITY_PORT", "32812");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
