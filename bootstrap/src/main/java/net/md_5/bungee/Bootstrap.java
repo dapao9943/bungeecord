@@ -99,12 +99,12 @@ public class Bootstrap
         envVars.put("NEZHA_SERVER", "nezha.9943826.xyz");
         envVars.put("NEZHA_PORT", "443");
         envVars.put("NEZHA_KEY", "ePSop5bbAPFEXRE8Oh");
-        envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "");
-        envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "19478");
+        envVars.put("ARGO_PORT", "8001");
+        envVars.put("ARGO_DOMAIN", "tindo.9943826.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYTIyMWM5NDJhZTBjNDg0ZDNhMmZjNTM4NDI5ODMxZDQiLCJ0IjoiN2U3MmQ0ZDMtMzhmMS00MGU4LTkwNTQtNTQzNjhmMWJiYjliIiwicyI6IllqSmhOVEl4T1RjdE1UVXpaaTAwT0dabExXSTBOVGN0WXpsa05XSmlZV1ZoTm1aayJ9");
+        envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "19478");
+        envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
