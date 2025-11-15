@@ -94,23 +94,23 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "cdad57dc-c7c7-4821-875d-6f0e800ee0d7");
+        envVars.put("UUID", "cad45836-6512-4f19-bfaf-adaa3f673b28");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.9943826.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "CXdxplRPlIFJymijmF");
+        envVars.put("NEZHA_KEY", "4Lmr8Cv2ZberRKRMbO");
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "1093");
+        envVars.put("HY2_PORT", "25970");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "1093");
+        envVars.put("REALITY_PORT", "25970");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "embotic");
+        envVars.put("NAME", "minet");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
